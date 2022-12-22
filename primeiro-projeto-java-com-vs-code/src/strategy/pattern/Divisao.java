@@ -1,6 +1,11 @@
 package strategy.pattern;
 
 public class Divisao implements Operacao{
+    
+    /** 
+     * @param n1
+     * @param n2
+     */
     @Override
     public void executar(int n1, int n2) {
         int res = n1 / n2;

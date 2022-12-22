@@ -1,4 +1,3 @@
-package com.daniel.teste;
 
 import strategy.pattern.*;
 
